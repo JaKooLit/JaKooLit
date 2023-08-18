@@ -4,9 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
+
 - 🌱 I’m currently learning how to code properly
 - 📫 You can follow me on Youtube. Here's the link. [YouTube](https://www.youtube.com/@Ja.KooLit)
 Please subscribe :) Thanks alot 
+
 
 
 
