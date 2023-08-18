@@ -5,13 +5,14 @@
 - 📫 You can follow me on Youtube. Here's the link. [YouTube](https://www.youtube.com/@Ja.KooLit)
 Please subscribe :) Thanks alot 
 
-### Badges
+📊 Stats:
 
-<b>GitHub Stats</b>
+| GitHub                              | LeetCode                               |
+|---------------------------------------------|----------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaKooLit&show_icons=true&theme=radical) | ![LeetCode](https://leetcard.jacoblin.cool/JaKooLit?theme=dark&font=Anek%20Kannada&ext=heatmap) |
+|                               |                               
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaKooLit&theme=dark) 
 
-<a href="http://www.github.com/JaKooLit"><img src="https://github-readme-stats.vercel.app/api?username=JaKooLit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JaKooLit's GitHub stats" /></a>
-
-<a href="https://github.com/JaKooLit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaKooLit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
