@@ -9,13 +9,17 @@
 Please subscribe :) Thanks alot 
 
 
+
+
 📊 Stats:
 
-| GitHub                              |
+
+GitHub
 |---------------------------------------------|----------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaKooLit&show_icons=true&theme=radical) |
-|                               |                               
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaKooLit&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaKooLit&show_icons=true&theme=radical) |
+                               
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaKooLit&theme=dark) 
 
 
 
