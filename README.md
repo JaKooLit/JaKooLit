@@ -1,6 +1,10 @@
 ### Hello there 👋
 
-- 🔭 I'm Jay, a Linux Enthusiast who likes to play around with Computers and stuff.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Jay;" />
+</h1>
+
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 <img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
  - 🌱 I’m currently learning how to code properly
@@ -25,6 +29,9 @@ Please subscribe :) Thanks alot
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JaKooLit&label=Profile%20views&color=0e75b6&style=flat" alt="JaKooLit" /> </p>
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+✌️">
+</h3>
 
 <!--
 **JaKooLit/JaKooLit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
