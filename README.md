@@ -23,7 +23,7 @@ Please subscribe :) Thanks alot
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaKooLit&label=Profile%20views&color=0e75b6&style=flat" alt="JaKooLit" /> </p>
 
 
 <!--
