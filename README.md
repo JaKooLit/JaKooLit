@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Jay;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=F71FA9&center=true&width=435&lines=Hello+There!+I'm+Jay+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 <img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
