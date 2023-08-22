@@ -13,7 +13,7 @@ Please subscribe 🤩 Thanks alot
 
 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaKooLit&show_icons=true&theme=radical) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaKooLit)](https://github.com/JaKooLit/github-readme-stats) 
                                
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaKooLit&theme=dark) 
