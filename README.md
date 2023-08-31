@@ -18,9 +18,6 @@ Please subscribe 🤩 Thanks alot
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaKooLit&theme=dark) 
 
-<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=JaKooLit&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
 
