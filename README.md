@@ -17,8 +17,9 @@
 
 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaKooLit&show_icons=true&theme=dark) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaKooLit&theme=dark) 
+!GitHub Stats[](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaKooLit&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaKooLit&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=500&type=png)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaKooLit&theme=tokyonight)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
 
