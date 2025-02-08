@@ -30,8 +30,12 @@
 
 Or you can donate cryto on my btc wallet :)  
 > 1N3MeV2dsX6gQB42HXU6MF2hAix1mqjo8i
+
+![Bitcoin](https://github.com/user-attachments/assets/7ed32f8f-c499-46f0-a53c-3f6fbd343699)
+
+
 <h3 align="center">
-  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
 
 </h3>
